@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647484639258",
+    "project_id": "ride-b9b64",
+    "storage_bucket": "ride-b9b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647484639258:android:e3d3c51f009afe3b3fa9a3",
+        "android_client_info": {
+          "package_name": "com.zenva.ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7mjPKxWlrIi-eCgYyMDKTy1-95Fa1cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
